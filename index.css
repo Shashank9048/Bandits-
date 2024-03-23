@@ -193,7 +193,8 @@ textarea {
 #community h2,
 #contact h2,
 footer h2 {
-    margin-bottom: 30px;
+    text-align: center;
+    margin-top: 2vh;
 }
 
 #community p,
